@@ -1,0 +1,31 @@
+main: de.niklaaasLobbysystem.main.Main
+version: 1.0
+name: Lobbysystem
+author: Niklaaas
+
+commands:
+   heal:
+        description: 'Heilen und so'
+   fly:
+       description: 'Kannste fliegen!'
+   build:
+       description: 'biste gamemode'
+   gm:
+      description: 'Setze dich in die verschiedenen Gamemodes!'
+   online:
+      description: 'Zeigt dir die Spieleranzahl an!'
+   vanish:
+      description: 'Setze dich in den Vanishmodus!'
+   countdown:
+      description: 'Countdown halt!'
+   hub:
+      description: 'Teleportiert dich in die Lobby!'
+   discord:
+      description: 'Zeigt dir unseren Discord an!'
+   setspawn:
+      description: 'Setzt den globalen Spawn!'
+   spawn:
+      description: 'Teleportiert dich zum globalen Spawn!'
+   team:
+      description: 'Übersicht der Teammitglieder!'
+   coins:

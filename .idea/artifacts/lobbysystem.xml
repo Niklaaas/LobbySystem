@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lobbysystem">
+    <output-path>$PROJECT_DIR$/../../localhost/lobby/plugins</output-path>
+    <root id="archive" name="Lobbysystem.jar">
+      <element id="library" level="project" name="spigot" />
+      <element id="module-output" name="Lobbysystem" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
