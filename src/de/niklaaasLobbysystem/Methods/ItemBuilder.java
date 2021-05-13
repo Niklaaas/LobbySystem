@@ -14,18 +14,10 @@ import java.util.ArrayList;
 
 public class ItemBuilder {
 
-    /*
-     Grundaufbaue einer Methode:
-
-     public / private  = Public: VOn jeder Klasse zugreifbar | Private: Nur von der Klasse selbst benutzbar
-     static            = Wird immer benötig wenn ein Zugriff von einer Klasse stattfinden soll.
-     void              = Hat keine rückgabewerte
-     |                 = Es muss nicht immer void sein, es kann z.B auch "int" oder "String" sein.
-                         Hier muss dann "return" benutzt werden
 
 
 
-     */
+     
     public static String getVollerName(String Vorname, String Nachname) {
         String vollerName = Vorname + " " + Nachname;
 
